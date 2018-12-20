@@ -1,0 +1,14 @@
+﻿  myipcamDlg.cpp
+c:\users\dldtr\source\repos\trangjackie\myipcam\myipcam\myipcamdlg.cpp(717): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dldtr\source\repos\trangjackie\myipcam\myipcam\myipcamdlg.cpp(699): warning C4101: 'ut': unreferenced local variable
+c:\users\dldtr\source\repos\trangjackie\myipcam\myipcam\myipcamdlg.cpp(700): warning C4101: 'txtValue': unreferenced local variable
+c:\users\dldtr\source\repos\trangjackie\myipcam\myipcam\myipcamdlg.cpp(1647): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dldtr\source\repos\trangjackie\myipcam\myipcam\myipcamdlg.cpp(1648): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dldtr\source\repos\trangjackie\myipcam\myipcam\myipcamdlg.cpp(2107): warning C4477: 'fwprintf' : format string '%-10s' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'CString'
+c:\users\dldtr\source\repos\trangjackie\myipcam\myipcam\myipcamdlg.cpp(2117): warning C4477: 'fwprintf' : format string '%-10s' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'CString'
+  Generating code
+  0 of 448 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  myipcam.vcxproj -> C:\Users\dldtr\source\repos\trangjackie\myipcam\Release\myipcam.exe
